@@ -1,4 +1,4 @@
-# Taxcxalculator
+# Taxcalculator
 This project is tax calculator. It is made using HTML,CSS,Javascript and Bootstrap. it has three input fields for annual income,extra income and deductions, and it has one select option for age. based on the input values the tax is caiculated. Overall income (after deductions) under 8 (≤) Lakhs is not taxed.
 
 Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at
