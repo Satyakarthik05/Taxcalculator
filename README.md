@@ -6,4 +6,5 @@ It is a tax calculator to calculate the tax with the income,extraincome and decd
 ![Screenshot (16)](https://github.com/Satyakarthik05/Taxcxalculator/assets/160334326/b2a7c24b-3594-4fe0-8e2b-a5904a9641f9)
 ![Screenshot (18)](https://github.com/Satyakarthik05/Taxcxalculator/assets/160334326/8d130316-928f-4178-83eb-e2ed38d81f06)
 ![Screenshot (19)](https://github.com/Satyakarthik05/Taxcxalculator/assets/160334326/b4f273fb-686a-43b7-b016-607ba70523d6)
+![Screenshot (24)](https://github.com/Satyakarthik05/Taxcxalculator/assets/160334326/b668fa49-95f1-4183-9cbd-a4be069d1393)
 ![Screenshot (23)](https://github.com/Satyakarthik05/Taxcxalculator/assets/160334326/45e638d8-de93-4493-95ab-b5727ab3f2d6)
